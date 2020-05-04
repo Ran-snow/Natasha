@@ -11,9 +11,9 @@
     <PackageProjectUrl>https://github.com/dotnetcore/Natasha</PackageProjectUrl>
     <PackageTags>Roslyn IL Scripte Dynamic </PackageTags>
     <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
-    <FileVersion>1.0.1.0</FileVersion>
+    <FileVersion>1.0.0.0</FileVersion>
     <PackageIconUrl>https://avatars2.githubusercontent.com/u/19404084</PackageIconUrl>
-    <AssemblyVersion>1.0.1.0</AssemblyVersion>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
   </PropertyGroup>
   
   <ItemGroup Condition="'$(TargetFramework)' == 'netstandard2.0'">

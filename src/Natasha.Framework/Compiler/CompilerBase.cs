@@ -71,7 +71,7 @@ namespace Natasha.Framework
             }
             else
             {
-                CompileResult = compilation.MacEmit(DllPath, PdbPath);
+                CompileResult = compilation.UnixEmit(DllPath, PdbPath);
             }
             return CompileResult;
 

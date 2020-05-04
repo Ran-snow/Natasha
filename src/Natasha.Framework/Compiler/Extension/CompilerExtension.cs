@@ -8,7 +8,7 @@ namespace Microsoft.CodeAnalysis.Emit
 {
     public static class CompilerExtension
     {
-        public static EmitResult MacEmit(
+        public static EmitResult UnixEmit(
             this Compilation compilation,
             string outputPath,
             string pdbPath = null,
